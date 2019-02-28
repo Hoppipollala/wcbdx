@@ -2,7 +2,7 @@
 23 mars 2019, Cité Mondiale - Centre de Congrès.
 
 ## Charte graphique
-La charte graphique du WordCamp Bordeaux 2019 assemblée (PDF) & une version HTML/CSS du dossier de partenariat.
+La charte graphique du WordCamp Bordeaux 2019 assemblée (PDF) & une (rapide) version HTML/CSS du dossier de partenariat.
 
 ## Logo
 Le logotype du WordCap Bordeaux 2019 et ses variantes, formats SVG & PNG.
